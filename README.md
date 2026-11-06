@@ -36,10 +36,6 @@ The quantitative success, parameter size, and speed metrics of the four differen
 * **YOLOv9:** Minimized the risk of missing critical cases (false negatives) with an 0.893 recall rate, providing maximum sensitivity in capturing cancerous lesions.
 * **YOLOv5 & YOLOv8:** With an inference time of 2.0 ms, these models offered the most efficient performance for real-time applications and rapid clinical screenings requiring high speed.
 
-## 🖼️ Project Visualizations
-
-
-
 
 
 ## 👨‍💻 Author & Contact
