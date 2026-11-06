@@ -38,15 +38,11 @@ The quantitative success, parameter size, and speed metrics of the four differen
 
 ## 🖼️ Project Visualizations
 
-*(Developer Note: Drag and drop your images into the GitHub editor to replace these placeholders)*
 
-* `[Insert Dataset - Malignant and Benign Samples Image Here]` 
-* `[Insert YOLOv11 Inference and Validation Samples Image Here]` 
-* `[Insert YOLO Models Training (Epoch) Graphs Here]` 
-* `[Insert YOLOv11 Confusion Matrix Here]` 
+
+
 
 ## 👨‍💻 Author & Contact
-This academic research was conducted as part of the Master's Degree Program (with Thesis) in Computer Engineering at Bandırma Onyedi Eylül University, Faculty of Engineering and Natural Sciences.
 
 * **Author:** Cem Er
-* **Contact:** 2515514026@ogr.bandirma.edu.tr
+* **Contact:** linkedin/cemer99
