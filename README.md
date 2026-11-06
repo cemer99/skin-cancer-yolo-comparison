@@ -1,1 +1,0 @@
-# skin-cancer-yolo-comparison
