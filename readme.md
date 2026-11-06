@@ -10,7 +10,7 @@ In dermatological clinical practice, the diagnosis of skin lesions relies heavil
 * **Key Findings:** The YOLOv11 architecture achieved the highest overall diagnostic accuracy (0.879 mAP@.5 and 0.705 mAP@.5:.95). The YOLOv9 model reached the most sensitive results in capturing cancerous cases (Recall: 0.893), while YOLOv5 and YOLOv8 provided the most efficient performance for real-time applications with an inference time of 2.0 ms.
 
 ## 📊 Dataset Distribution
-The dataset utilized in this research was acquired from the open-source platform Roboflow Universe ([Dataset Link](https://app.roboflow.com/cem-yujfy/skin-cancer-vczfq-rvakt/1)). It comprises a total of 2,000 dermatological images.
+The dataset utilized in this research was acquired from the open-source platform Roboflow Universe ([Dataset Link](https://app.roboflow.com/cem-yujfy/skin-cancer-vczfq-rvakt/browse)). It comprises a total of 2,000 dermatological images.
 * **Malignant:** Melanoma (mel), Basal Cell Carcinoma (bcc), and Actinic Keratosis (akiec) representing potential malignancy.
 * **Benign:** Melanocytic nevi (nv), Benign keratosis (bkl), Vascular lesions (vasc), and Dermatofibroma (df).
 
